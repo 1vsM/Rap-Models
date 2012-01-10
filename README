@@ -1,0 +1,16 @@
+I wrote this script to answer the question "Who's the girl in that music video?"
+The script is a database of music videos & the model's in them. Each model has a 
+profile that shows the music videos they're in, photos, social media feeds, etc. 
+The script also allows visitors to vote on models & it ranks them accordingly. 
+I'm proud of this script because it was fun to create & has already been used by 
+over a million different people. Most importantly, the models & visitors love it!
+
+LIVE SCRIPT - http://RapModels.net
+
+ - Example Model Directory: http://184.168.127.216/models.php
+ - Example Model Profile: http://184.168.127.216/music-videos/2810/Pitbull_ft._T-Pain__-_Hey_Baby_Drop_It_To_The_Floor/
+ - Example Video Directory: http://184.168.127.216/videos.php
+ - Example Video Profile: http://184.168.127.216/models/168/Sagia_Castaneda/
+ - Example Voting: http://184.168.127.216/hip-hop-honeys-rankings.php
+
+- Tyrone Norris
